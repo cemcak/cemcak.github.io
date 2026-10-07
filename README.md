@@ -1,109 +1,67 @@
-# Privacy Policy for FileMeUp
+Privacy Policy for Sartor
+Effective date: October 7, 2026
 
-**Last updated: October 3, 2026**
+Sartor ("the app") is an iPhone app that converts a photo to the format, pixel size and file size that an upload form requires. The app is published by Cem Cakmakci ("we", "us", "our").
 
-FileMeUp is designed with privacy in mind. File processing is performed locally on your device.
+Summary
+We do not collect, receive, store or share any personal data.
+Your photos, files and anything read from them stay on your iPhone unless you choose to save or share a result yourself.
+The app has no account, no analytics, no advertising, no tracking and no third-party code.
+We do not sell or share personal information.
+Photos and files
+All processing happens on your iPhone. This includes converting, resizing, compressing, cropping, removing a background, removing metadata and reading text from a scan. The app reads your photos and their metadata only to do the work you ask for. We do not receive any of it. The app has no server of its own and uploads nothing.
 
-## Information We Collect
+The app asks for only the access it needs:
 
-FileMeUp does not require an account and does not collect, transmit, or store your personal files on our servers.
+Choosing photos. You choose photos with the system photo picker or the Files picker. The app gets only the items you select. It has no access to the rest of your photo library or your files.
+Scan. You can scan an upload requirement with the camera, or pick a photo, an image file or a PDF. The app reads it only to find the requirement text in it.
+Camera. The camera is used only by the Scan feature. It is not used for anything else.
+Clipboard. When you tap Paste, the app reads the text on your clipboard to find the requirement in it. It does not read the clipboard at any other time.
+Saving to Photos. When you save a result, the app asks for add-only access. It can add photos to your library. It cannot read your library.
+Sharing. When you share a result, iOS hands the file to the app or person you choose. What happens to it there is covered by that app's privacy policy. If you turn off "Remove location & camera data", the file keeps that data.
+Reading text and finding the subject of a photo use Apple's Vision framework on your iPhone.
 
-FileMeUp does not operate a backend server for processing user files.
+Data kept on your iPhone
+The app keeps a few settings between launches. They are stored on your iPhone, in storage that only Sartor and its share extension can use:
 
-Images, PDFs, screenshots, and other files you select are processed locally on your device.
+your default settings, such as the default format and file naming;
+the targets you save as your own presets;
+a history of your recent conversions. Each entry holds the target, the number of photos and the file-size totals.
+The app does not keep your photos, copies of them, thumbnails or file names. Files prepared for the share sheet, and photos passed between the share extension and the app, are kept temporarily on your iPhone and are deleted automatically: when the share sheet closes, when the app takes them or goes to the background, or the next time the app or the extension starts.
 
-## Files and Documents
+This data stays on your iPhone and is under your control. We do not have access to it. We do not send it anywhere. You can clear your history, or delete a single entry, in the app. Deleting the app removes all of this data.
 
-Files you choose in FileMeUp are used only to perform the actions you request, such as:
+Backups
+We do not make or keep backups of your data. If you back up your iPhone with iCloud or a computer, Sartor's settings above may be included in that backup. iOS does this under your control, not us, and we cannot access that backup. The app does not use iCloud to sync anything.
 
-- validating file requirements
-- resizing images
-- converting image formats
-- optimizing supported image files
-- reading upload requirements using on-device text recognition
-- validating PDF requirements
+Share extension
+Sartor has a share extension, so you can send photos to it from other apps. It works the same way as the app. It runs on your iPhone and shares the settings above with the app. It makes no network connections of its own, apart from Apple's StoreKit checking your subscription. It can add a result to your photo library only with add-only access.
 
-Your original files are not intentionally modified by FileMeUp.
+Subscriptions
+Converting and comparing are free. Saving and sharing a result need a subscription. Apple handles purchases through the App Store. We do not receive your name, payment details, Apple Account or any other personal information. Your subscription status is checked on your iPhone. We see only the aggregate sales and subscription reports that Apple provides to developers. Apple's own privacy policy applies to your purchases. The app does not create an account.
 
-Prepared files are created separately and remain under your control.
+Network use
+The app and its share extension make no network connections of their own. The only exception is Apple's StoreKit, which talks to the App Store to show and handle subscriptions.
 
-FileMeUp does not upload your selected files to a FileMeUp-operated server.
+Tracking, analytics and third parties
+The app does not track you. It contains no advertising, no analytics, no crash-reporting tools and no third-party software development kits (SDKs). It does not create or use identifiers to identify you or your device.
 
-## On-Device Text Recognition
+If you have chosen to share analytics with app developers in your iPhone's settings, Apple may show us aggregated, anonymous usage and crash data. It does not identify you. You can turn this off in Settings > Privacy & Security > Analytics & Improvements.
 
-FileMeUp may use Apple-provided on-device technologies, including Vision, to recognize text from screenshots or images that you choose.
+Links
+The app links to this policy and to Apple's standard Terms of Use. They open in Safari, outside the app. Those web pages are not part of the app. Like any website, their hosts may keep ordinary server logs of visits, such as IP addresses. We do not use these pages for analytics.
 
-This processing is performed locally on your device.
+Your choices
+You can withdraw camera or Photos access at any time in Settings > Apps > Sartor. You can manage or cancel your subscription in your Apple Account settings.
 
-Recognized text is used only to help identify file requirements such as file format, file-size limits, dimensions, or page limits.
+Children
+The app is not directed at children. It does not knowingly collect data from anyone, including children.
 
-## Saved Requirements and Preferences
+Your rights
+We hold no personal data about you, so there is nothing for us to access, correct, export or delete. If you live in a region with data-protection law, such as the European Economic Area, the United Kingdom, Turkey (KVKK) or California, you keep every right that law gives you, including the right to ask us what data we hold about you and the right to complain to your local data-protection authority. You can contact us at any time.
 
-FileMeUp may store certain settings locally on your device, including:
+Security
+Your photos and files stay on your iPhone, so your device's own security protects them. The app does not send them across a network.
 
-- saved requirement presets
-- application preferences
-- free-use status
-- appearance preferences
-
-This information is stored locally and is not transmitted to a FileMeUp server.
-
-Removing the app may remove locally stored information, subject to normal iOS behavior.
-
-## Purchases and Subscriptions
-
-FileMeUp offers optional in-app subscriptions through Apple’s App Store.
-
-Purchases are processed by Apple using StoreKit.
-
-FileMeUp does not receive or store your payment card information.
-
-Apple may process information related to purchases, subscriptions, refunds, and entitlement status according to Apple’s own privacy practices.
-
-## Third-Party Services
-
-FileMeUp does not currently include third-party advertising SDKs, analytics SDKs, or third-party file-processing services.
-
-The app relies on Apple-provided platform services where necessary for features such as file selection, photo access, text recognition, sharing, and in-app purchases.
-
-## Tracking and Advertising
-
-FileMeUp does not use your data for advertising.
-
-FileMeUp does not track you across apps or websites owned by other companies.
-
-## Data Sharing
-
-FileMeUp does not sell your personal information.
-
-FileMeUp does not share your selected files or documents with third parties through a FileMeUp-operated service.
-
-Files may only leave the app when you explicitly choose to share, save, export, or otherwise send them using iOS system features.
-
-## Data Retention and Deletion
-
-Because FileMeUp does not maintain user accounts or a server-side database containing your files, there is generally no FileMeUp server-side personal data to request for deletion.
-
-Locally stored app data can be removed by deleting the app from your device.
-
-Files you explicitly save or export outside FileMeUp remain wherever you chose to save them and must be managed through that destination.
-
-## Children's Privacy
-
-FileMeUp is not designed to knowingly collect personal information from children.
-
-Because the app does not operate a user-account system or collect user files on a FileMeUp server, it does not knowingly maintain personal profiles of children.
-
-## Changes to This Privacy Policy
-
-This Privacy Policy may be updated when FileMeUp's functionality or data practices change.
-
-The current version will be made available at the Privacy Policy URL associated with FileMeUp.
-
-## Contact
-
-If you have questions about this Privacy Policy, you can contact:
-
-**Email:** support.filemeup@gmail.com
-
-© 2026 FileMeUp
+Contact
+Cem Cakmakci support.filemeup@gmail.com
