@@ -1,6 +1,6 @@
 # Privacy Policy for Sartor
 
-Effective date: October 7, 2026
+Effective date: October 8, 2026
 
 Sartor ("the app") is an iPhone app that converts a photo to the format, pixel size and file size that an upload form requires. The app is published by Cem Cakmakci ("we", "us", "our").
 
@@ -8,7 +8,7 @@ Sartor ("the app") is an iPhone app that converts a photo to the format, pixel s
 
 - We do not collect, receive, store or share any personal data.
 - Your photos, files and anything read from them stay on your iPhone unless you choose to save or share a result yourself.
-- The app has no account, no analytics, no advertising, no tracking and no third-party code.
+- The app is free. It has no purchases, no account, no analytics, no advertising, no tracking and no third-party code.
 - We do not sell or share personal information.
 
 ## Photos and files
@@ -44,15 +44,15 @@ We do not make or keep backups of your data. If you back up your iPhone with iCl
 
 ## Share extension
 
-Sartor has a share extension, so you can send photos to it from other apps. It works the same way as the app. It runs on your iPhone and shares the settings above with the app. It makes no network connections of its own, apart from Apple's StoreKit checking your subscription. It can add a result to your photo library only with add-only access.
+Sartor has a share extension, so you can send photos to it from other apps. It works the same way as the app. It runs on your iPhone and shares the settings above with the app. It makes no network connections of its own. It can add a result to your photo library only with add-only access.
 
-## Subscriptions
+## Purchases
 
-Converting and comparing are free. Saving and sharing a result need a subscription. Apple handles purchases through the App Store. We do not receive your name, payment details, Apple Account or any other personal information. Your subscription status is checked on your iPhone. We see only the aggregate sales and subscription reports that Apple provides to developers. Apple's own privacy policy applies to your purchases. The app does not create an account.
+The app is free and has no in-app purchases or subscriptions. It does not create an account. We see only the aggregate download reports that Apple provides to developers. If a paid plan is added later, this policy will be updated first.
 
 ## Network use
 
-The app and its share extension make no network connections of their own. The only exception is Apple's StoreKit, which talks to the App Store to show and handle subscriptions.
+The app and its share extension make no network connections of their own.
 
 ## Tracking, analytics and third parties
 
@@ -66,7 +66,7 @@ The app links to this policy and to Apple's standard Terms of Use. They open in 
 
 ## Your choices
 
-You can withdraw camera or Photos access at any time in Settings > Apps > Sartor. You can manage or cancel your subscription in your Apple Account settings.
+You can withdraw camera or Photos access at any time in Settings > Apps > Sartor.
 
 ## Children
 
