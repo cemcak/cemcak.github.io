@@ -24,8 +24,6 @@ The app asks for only the access it needs:
 - **Saving to Photos.** When you save a result, the app asks for add-only access. It can add photos to your library. It cannot read your library.
 - **Sharing.** When you share a result, iOS hands the file to the app or person you choose. What happens to it there is covered by that app's privacy policy. If you turn off "Remove location & camera data", the file keeps that data.
 
-Reading text and finding the subject of a photo use Apple's Vision framework on your iPhone.
-
 ## Data kept on your iPhone
 
 The app keeps a few settings between launches. They are stored on your iPhone, in storage that only SartorX and its share extension can use:
