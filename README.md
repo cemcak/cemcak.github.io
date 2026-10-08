@@ -1,8 +1,8 @@
-# Privacy Policy for Sartor
+# Privacy Policy for SartorX
 
 Effective date: October 8, 2026
 
-Sartor ("the app") is an iPhone app that converts a photo to the format, pixel size and file size that an upload form requires. The app is published by Cem Cakmakci ("we", "us", "our").
+SartorX ("the app") is an iPhone app that converts a photo to the format, pixel size and file size that an upload form requires. The app is published by Cem Cakmakci ("we", "us", "our").
 
 ## Summary
 
@@ -28,7 +28,7 @@ Reading text and finding the subject of a photo use Apple's Vision framework on 
 
 ## Data kept on your iPhone
 
-The app keeps a few settings between launches. They are stored on your iPhone, in storage that only Sartor and its share extension can use:
+The app keeps a few settings between launches. They are stored on your iPhone, in storage that only SartorX and its share extension can use:
 
 - your default settings, such as the default format and file naming;
 - the targets you save as your own presets;
@@ -40,11 +40,11 @@ This data stays on your iPhone and is under your control. We do not have access 
 
 ## Backups
 
-We do not make or keep backups of your data. If you back up your iPhone with iCloud or a computer, Sartor's settings above may be included in that backup. iOS does this under your control, not us, and we cannot access that backup. The app does not use iCloud to sync anything.
+We do not make or keep backups of your data. If you back up your iPhone with iCloud or a computer, SartorX's settings above may be included in that backup. iOS does this under your control, not us, and we cannot access that backup. The app does not use iCloud to sync anything.
 
 ## Share extension
 
-Sartor has a share extension, so you can send photos to it from other apps. It works the same way as the app. It runs on your iPhone and shares the settings above with the app. It makes no network connections of its own. It can add a result to your photo library only with add-only access.
+SartorX has a share extension, so you can send photos to it from other apps. It works the same way as the app. It runs on your iPhone and shares the settings above with the app. It makes no network connections of its own. It can add a result to your photo library only with add-only access.
 
 ## Purchases
 
@@ -66,7 +66,7 @@ The app links to this policy and to Apple's standard Terms of Use. They open in 
 
 ## Your choices
 
-You can withdraw camera or Photos access at any time in Settings > Apps > Sartor.
+You can withdraw camera or Photos access at any time in Settings > Apps > SartorX.
 
 ## Children
 
