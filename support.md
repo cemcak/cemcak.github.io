@@ -46,7 +46,7 @@ Check the rules shown before you continue. If one is wrong, set the format, size
 
 ### Are my photos uploaded anywhere?
 
-No. Everything happens on your iPhone and the app makes no network connection. See the [Privacy Policy](https://cemcak.github.io).
+No. Everything happens on your iPhone and the app makes no network connection. See the [Privacy Policy](https://cemcak.github.io/privacy).
 
 ### How do I delete my data?
 
