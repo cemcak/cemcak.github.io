@@ -12,7 +12,7 @@ It helps if you include:
 - the rule you were trying to meet, for example "JPG, max 300 KB, 600 x 600 px",
 - what you expected and what happened instead.
 
-You don't need to send the photo. If a screenshot explains the problem better, check that it shows nothing you'd rather keep private.
+Please do not share any personal info or file.You don't need to send the photo. If a screenshot explains the problem better, check that it shows nothing you'd rather keep private.
 
 ## Common questions
 
