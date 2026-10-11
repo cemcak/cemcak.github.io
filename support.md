@@ -12,13 +12,13 @@ It helps if you include:
 - the rule you were trying to meet, for example "JPG, max 300 KB, 600 x 600 px",
 - what you expected and what happened instead.
 
-Please do not share any personal info or file.You don't need to send the photo. If a screenshot explains the problem better, check that it shows nothing you'd rather keep private.
+Please do not share any personal info or file. You don't need to send the photo. If a screenshot explains the problem better, check that it shows nothing you'd rather keep private.
 
 ## Common questions
 
 ### How do I start?
 
-Type or paste the requirement from the form on the first screen, scan it, or pick a preset. Then choose up to 20 photos and tap Convert. You can also start with the photos and set the format, file size and dimensions by hand on the target screen.
+Type or paste the requirement from the form on the first screen, scan it, or pick a preset. Then choose up to 20 photos and tap Convert. You can also start with the photos and set the format, file size and dimensions by hand on the target screen. Dimensions can be an exact size, the long edge, the width or the height alone, a percentage or a shape such as 1:1 or 4:5, and a size can be a minimum or have a largest size above it.
 
 ### What can I convert, and to what?
 
@@ -43,6 +43,14 @@ Some rules can't all be met at once, for example a small file size at a large pi
 ### The app says a photo is smaller than the target.
 
 The photo has fewer pixels than the form asks for. Enlarging adds pixels but not detail, so the result can look soft. SartorX never does it without asking: tap Enlarge, or choose a larger photo.
+
+### My HEIC photo is still HEIC.
+
+With Format set to Keep, a photo stays in the format it came in, and many upload forms don't take HEIC. The target screen says so and offers "Make it JPEG". A JPEG of the same photo is usually a larger file.
+
+### What does "Filled" mean?
+
+Some forms set a smallest file size, and a small picture can come out under it. For a JPEG, SartorX can add empty bytes to the file until it reaches the minimum. The picture itself is not changed. It is offered on the target screen and never done without your tap.
 
 ### The converted file isn't smaller than the original.
 
@@ -74,7 +82,7 @@ In Photos, select up to 20 photos and tap Share. If SartorX isn't in the row of 
 
 ### The scan or the pasted text was read wrongly.
 
-Check the rules shown before you continue. In a longer text, each rule is shown with the words it was read from. If one is wrong, set the format, size and dimensions by hand on the target screen. Sending us the requirement text helps us improve this.
+Check the rules shown before you continue. In a longer text, each rule is shown with the words it was read from. After a scan, "Not read clearly" lists values from lines the scan wasn't sure of: they are not used until you tap them. If one is wrong, set the format, size and dimensions by hand on the target screen. Sending us the requirement text helps us improve this.
 
 ### Are my photos uploaded anywhere?
 
