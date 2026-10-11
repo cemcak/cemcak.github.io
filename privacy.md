@@ -1,6 +1,6 @@
 # Privacy Policy for SartorX
 
-Effective date: October 9, 2026
+Effective date: October 11, 2026
 
 SartorX ("the app") is an iPhone app that converts a photo to the format, pixel size and file size that an upload form requires. The app is published by Cem Cakmakci ("we", "us", "our").
 
@@ -13,16 +13,19 @@ SartorX ("the app") is an iPhone app that converts a photo to the format, pixel 
 
 ## Photos and files
 
-All processing happens on your iPhone. This includes converting, resizing, compressing, cropping, removing a background, removing metadata and reading text from a scan. The app reads your photos and their metadata only to do the work you ask for. We do not receive any of it. The app has no server of its own and uploads nothing.
+All processing happens on your iPhone. This includes converting, resizing, compressing, cropping, finding the people in a photo to place the crop, removing a background, removing metadata and reading text from a scan. The app reads your photos and their metadata only to do the work you ask for. We do not receive any of it. The app has no server of its own and uploads nothing.
 
 The app asks for only the access it needs:
 
 - **Choosing photos.** You choose photos with the system photo picker or the Files picker. The app gets only the items you select. It has no access to the rest of your photo library or your files.
 - **Scan.** You can scan an upload requirement with the camera, or pick a photo, an image file or a PDF. The app reads it only to find the requirement text in it.
-- **Camera.** The camera is used only by the Scan feature. It is not used for anything else.
+- **Camera.** The camera is used only by the Scan feature. The picture you take there is read for its text and is not saved.
 - **Clipboard.** When you tap Paste, the app reads the text on your clipboard to find the requirement in it. It does not read the clipboard at any other time.
 - **Saving to Photos.** When you save a result, the app asks for add-only access. It can add photos to your library. It cannot read your library.
-- **Sharing.** When you share a result, iOS hands the file to the app or person you choose. What happens to it there is covered by that app's privacy policy. If you turn off "Remove location & camera data", the file keeps that data.
+- **Saving to Files.** When you save a result to Files, it goes to the folder you choose.
+- **Sharing.** When you share a result, iOS hands the file to the app or person you choose. What happens to it there is covered by that app's privacy policy.
+
+Results have their location and camera data removed unless you turn off "Remove location & camera data". With it off, the file keeps that data wherever you save or share it.
 
 ## Data kept on your iPhone
 
@@ -30,9 +33,14 @@ The app keeps a few settings between launches. They are stored on your iPhone, i
 
 - your default settings, such as the default format and file naming;
 - the targets you save as your own presets;
-- a history of your recent conversions. Each entry holds the target, the number of photos and the file-size totals.
+- a history of your recent conversions. Each entry holds the date, the target, the name of the preset it came from if there was one, the number of photos and the file-size totals.
 
-The app does not keep your photos, copies of them, thumbnails or file names. Files prepared for the share sheet, and photos passed between the share extension and the app, are kept temporarily on your iPhone and are deleted automatically: when the share sheet closes, when the app takes them or goes to the background, or the next time the app or the extension starts.
+The app does not keep your photos, copies of them, thumbnails or file names. A few files exist on your iPhone for a short time only, and are deleted automatically:
+
+- A photo you send to the share extension is read into memory and its temporary copy is removed at once.
+- Photos the share extension passes to the app wait until the app takes them. They are deleted if the app can't be opened or goes to the background without taking them.
+- Files prepared for the share sheet or for saving to Files are deleted the next time the app starts. Saving to Files moves them to the folder you chose.
+- Anything an interrupted share left behind is deleted the next time the app or the extension starts.
 
 This data stays on your iPhone and is under your control. We do not have access to it. We do not send it anywhere. You can clear your history, or delete a single entry, in the app. Deleting the app removes all of this data.
 
@@ -60,7 +68,7 @@ If you have chosen to share analytics with app developers in your iPhone's setti
 
 ## Links
 
-The app links to this policy and to Apple's standard Terms of Use. They open in Safari, outside the app. Those web pages are not part of the app. Like any website, their hosts may keep ordinary server logs of visits, such as IP addresses. We do not use these pages for analytics.
+The app links to this policy, to its support page and to Apple's standard Terms of Use. They open in Safari, outside the app. Those web pages are not part of the app. Like any website, their hosts may keep ordinary server logs of visits, such as IP addresses. We do not use these pages for analytics.
 
 ## Your choices
 
